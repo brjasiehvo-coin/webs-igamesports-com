@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://brjasiehvo-coin.github.io/webs-igamesports-com/sitemap.xml
